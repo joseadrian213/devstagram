@@ -1,0 +1,4 @@
+/* Agregamos la directivas de tailwind para que pueda funcionar de manera correcta  */
+@tailwind base; 
+@tailwind components; 
+@tailwind utilities; 
